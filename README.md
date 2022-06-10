@@ -1,1 +1,1 @@
-# How-to-use-scispaCy-Entity-Linkers-for-Biomedical-Named-Entities
+# <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-artificial-intelligence-big-data-flaticons-flat-flat-icons.png"/> How-to-use-scispaCy-Entity-Linkers-for-Biomedical-Named-Entities
